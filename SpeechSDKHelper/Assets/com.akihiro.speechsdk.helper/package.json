@@ -1,0 +1,14 @@
+{
+    "name": "com.akihiro.speechsdk.helper",
+    "version": "1.0.0",
+    "displayName": "com.akihiro.speechsdk.helper",
+    "description": "com.akihiro.speechsdk.helper",
+    "unity": "2020.3",
+    "samples": [
+        {
+            "displayName": "Sample",
+            "description": "Sample",
+            "path": "Samples~"
+        }
+    ]
+}
